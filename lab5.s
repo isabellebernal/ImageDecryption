@@ -15,7 +15,7 @@ jal main
 #                           Data Section
 .data
 student_name: .asciiz "Isabelle Bernal"
-student_id: .asciiz "826779532"
+student_id: .asciiz "#########"
 
 identity_m: .word 1, 0, 0, 0, 1, 0
 scale_m:    .word 2, 0, 0, 0, 1, 0
